@@ -1,19 +1,7 @@
 "use client";
 
 import * as React from "react";
-import {
-  BookOpen,
-  Bot,
-  Command,
-  Frame,
-  LifeBuoy,
-  Map,
-  PieChart,
-  PlayIcon,
-  Send,
-  Settings2,
-  SquareTerminal,
-} from "lucide-react";
+import { PlayIcon } from "lucide-react";
 
 import {
   Sidebar,
